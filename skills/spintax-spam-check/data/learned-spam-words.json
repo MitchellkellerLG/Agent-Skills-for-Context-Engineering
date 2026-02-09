@@ -1,0 +1,347 @@
+{
+  "words": {
+    "free": {
+      "replacements": [
+        "complimentary",
+        "no-cost",
+        "included",
+        "at no charge"
+      ],
+      "severity": "high",
+      "category": "sales",
+      "discovered": "2025-12-30",
+      "hit_count": 2
+    },
+    "guarantee": {
+      "replacements": [
+        "back",
+        "assure",
+        "confirm",
+        "commit to"
+      ],
+      "severity": "high",
+      "category": "sales",
+      "discovered": "2025-12-30",
+      "hit_count": 20
+    },
+    "guaranteed": {
+      "replacements": [
+        "backed",
+        "assured",
+        "confirmed",
+        "committed"
+      ],
+      "severity": "high",
+      "category": "sales",
+      "discovered": "2025-12-30",
+      "hit_count": 0
+    },
+    "urgent": {
+      "replacements": [
+        "timely",
+        "time-sensitive",
+        "current"
+      ],
+      "severity": "high",
+      "category": "urgency",
+      "discovered": "2025-12-30",
+      "hit_count": 1
+    },
+    "expires": {
+      "replacements": [
+        "ends",
+        "closes",
+        "concludes"
+      ],
+      "severity": "medium",
+      "category": "urgency",
+      "discovered": "2025-12-30",
+      "hit_count": 1
+    },
+    "winner": {
+      "replacements": [
+        "successful",
+        "selected",
+        "chosen"
+      ],
+      "severity": "high",
+      "category": "hype",
+      "discovered": "2025-12-30",
+      "hit_count": 2
+    },
+    "congratulations": {
+      "replacements": [
+        "great news",
+        "exciting update",
+        "good news"
+      ],
+      "severity": "high",
+      "category": "hype",
+      "discovered": "2025-12-30",
+      "hit_count": 0
+    },
+    "buy": {
+      "replacements": [
+        "get",
+        "acquire",
+        "invest in",
+        "pick up"
+      ],
+      "severity": "medium",
+      "category": "sales",
+      "discovered": "2025-12-30",
+      "hit_count": 3
+    },
+    "cheap": {
+      "replacements": [
+        "affordable",
+        "cost-effective",
+        "budget-friendly"
+      ],
+      "severity": "medium",
+      "category": "sales",
+      "discovered": "2025-12-30",
+      "hit_count": 2
+    },
+    "discount": {
+      "replacements": [
+        "savings",
+        "reduced rate",
+        "special rate"
+      ],
+      "severity": "medium",
+      "category": "sales",
+      "discovered": "2025-12-30",
+      "hit_count": 1
+    },
+    "exclusive": {
+      "replacements": [
+        "select",
+        "curated",
+        "tailored",
+        "specific"
+      ],
+      "severity": "medium",
+      "category": "hype",
+      "discovered": "2025-12-30",
+      "hit_count": 28
+    },
+    "instant": {
+      "replacements": [
+        "quick",
+        "fast",
+        "prompt",
+        "immediate"
+      ],
+      "severity": "medium",
+      "category": "urgency",
+      "discovered": "2025-12-30",
+      "hit_count": 0
+    },
+    "profit": {
+      "replacements": [
+        "benefit",
+        "gain",
+        "return",
+        "growth"
+      ],
+      "severity": "medium",
+      "category": "sales",
+      "discovered": "2025-12-30",
+      "hit_count": 1
+    },
+    "prize": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2025-12-31",
+      "hit_count": 1
+    },
+    "unsubscribe": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2025-12-31",
+      "hit_count": 1
+    },
+    "stop": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2025-12-31",
+      "hit_count": 1
+    },
+    "great": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2025-12-31",
+      "hit_count": 1
+    },
+    "opportunity": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2025-12-31",
+      "hit_count": 50
+    },
+    "access": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2026-01-16",
+      "hit_count": 50
+    },
+    "rates": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2026-01-16",
+      "hit_count": 51
+    },
+    "terms": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2026-01-16",
+      "hit_count": 53
+    },
+    "funding": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2026-01-16",
+      "hit_count": 13
+    },
+    "cash": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2026-01-16",
+      "hit_count": 13
+    },
+    "marketing": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2026-01-16",
+      "hit_count": 1
+    },
+    "affordable": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2026-01-16",
+      "hit_count": 1
+    }
+  },
+  "phrases": {
+    "act now": {
+      "replacements": [
+        "when you're ready",
+        "if interested",
+        "at your convenience"
+      ],
+      "severity": "high",
+      "category": "urgency",
+      "discovered": "2025-12-30",
+      "hit_count": 29
+    },
+    "click here": {
+      "replacements": [
+        "learn more",
+        "see details",
+        "explore",
+        "find out more"
+      ],
+      "severity": "high",
+      "category": "cta",
+      "discovered": "2025-12-30",
+      "hit_count": 1
+    },
+    "limited time": {
+      "replacements": [
+        "current",
+        "available now",
+        "while available"
+      ],
+      "severity": "high",
+      "category": "urgency",
+      "discovered": "2025-12-30",
+      "hit_count": 1
+    },
+    "risk-free": {
+      "replacements": [
+        "low-risk",
+        "safe",
+        "secure"
+      ],
+      "severity": "high",
+      "category": "sales",
+      "discovered": "2025-12-30",
+      "hit_count": 1
+    },
+    "sign up": {
+      "replacements": [
+        "get started",
+        "join",
+        "begin"
+      ],
+      "severity": "medium",
+      "category": "cta",
+      "discovered": "2025-12-30",
+      "hit_count": 26
+    },
+    "order now": {
+      "replacements": [
+        "get started",
+        "learn more",
+        "proceed"
+      ],
+      "severity": "high",
+      "category": "cta",
+      "discovered": "2025-12-30",
+      "hit_count": 0
+    },
+    "double your": {
+      "replacements": [
+        "increase your",
+        "grow your",
+        "expand your"
+      ],
+      "severity": "high",
+      "category": "hype",
+      "discovered": "2025-12-30",
+      "hit_count": 27
+    },
+    "you have been selected": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2025-12-31",
+      "hit_count": 1
+    },
+    "no purchase necessary": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2025-12-31",
+      "hit_count": 1
+    },
+    "take a look at": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2025-12-31",
+      "hit_count": 50
+    },
+    "for you": {
+      "replacements": [],
+      "severity": "medium",
+      "category": "api_detected",
+      "discovered": "2025-12-31",
+      "hit_count": 52
+    }
+  },
+  "last_updated": "2026-01-29T13:19:59.105448"
+}

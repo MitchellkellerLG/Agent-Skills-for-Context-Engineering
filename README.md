@@ -38,6 +38,27 @@ These skills address the ongoing operation and optimization of agent systems.
 | [context-optimization](skills/context-optimization/) | Apply compaction, masking, and caching strategies |
 | [evaluation](skills/evaluation/) | Build evaluation frameworks for agent systems |
 
+### Cold Email & Copywriting Skills
+
+Skills for writing, testing, and optimizing cold outbound email campaigns.
+
+| Skill | Description |
+|-------|-------------|
+| [cold-email-v2](skills/cold-email-v2/) | Complete cold email system: research-driven personalization, "poke the bear" openers, variable schemas, follow-up sequences, QA checklist, and scoring rubric |
+| [spintax-spam-check](skills/spintax-spam-check/) | Spintax processing with control message anchoring, spam trigger detection via EmailGuard API, self-annealing spam word database, and native grammar checking |
+
+### Campaign Management Skills
+
+Skills for managing email campaigns in EmailBison — setup, analysis, and cross-client intelligence.
+
+| Skill | Description |
+|-------|-------------|
+| [email-campaign/setup](skills/email-campaign/setup/) | Create and launch campaigns in EmailBison: workspace switching, sequence creation, schedule configuration, and safety rules |
+| [email-campaign/analyze](skills/email-campaign/analyze/) | Analyze campaign performance: metric calculation, classification (WINNER/PERFORMING/UNDERPERFORMER/TOO EARLY), and report generation |
+| [campaign-state-of-market](skills/campaign-state-of-market/) | Deep-dive campaign analysis with ICP refinement, copy pattern extraction, research validation matrix, and 7/14/30-day testing roadmaps |
+| [cold-conversation-reply-analysis](skills/cold-conversation-reply-analysis/) | Extract GTM intelligence from reply exports: pain points, objection patterns, persona analysis, copy effectiveness, and ICP refinement |
+| [cross-client-ground-truth](skills/cross-client-ground-truth/) | Cross-client pattern extraction ranked by C/I (Contacts per Interested Reply) — the metric that tells the truth about what works |
+
 ## Design Philosophy
 
 ### Progressive Disclosure
